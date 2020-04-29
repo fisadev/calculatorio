@@ -6,7 +6,7 @@ No UI or CLI right now. Just open python, import it, and use it.
 
 This is still super incomplete, I'm adding stuff when I need it :)
 
-Example:
+## Example
 
 How many producers do we need for each component, to get 1000 red and green science packs every 30 seconds?
 
